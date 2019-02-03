@@ -15,12 +15,19 @@ body {
 }
 
 h1 {
+	font-size:50px;
+}
+
+h2 {
 	font-size:40px;
 }
 
-img {
-	height:50%;
-	width:50%;
+h6 {
+	font-size: 30px;
+}
+
+p {
+	font-size: 20px;
 }
 
 .link {
