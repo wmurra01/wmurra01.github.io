@@ -1,4 +1,4 @@
-*/ general.css */
+/* general.css */
 
 body {
 	background-color: white;
@@ -19,7 +19,7 @@ h1 {
 }
 
 img {
-	height:50%
+	height:50%;
 	width:50%;
 }
 
